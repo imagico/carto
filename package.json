@@ -37,7 +37,7 @@
     "hsluv": "~0.0.1",
     "js-yaml": "~3.12.0",
     "lodash": "~4.17.10",
-    "mapnik-reference": "~8.10.0",
+    "mapnik-reference": "file:../mapnik-reference",
     "semver": "~5.6.0",
     "yargs": "~12.0.1"
   },
